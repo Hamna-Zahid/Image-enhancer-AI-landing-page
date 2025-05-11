@@ -8,9 +8,9 @@
 
 ## 🌄 Preview
 
-![Landing Page (a)](images/FP1)
-![Landing Page (b)](images/FP2)
-![Landing Page (c)](images/FP3)
+![Landing Page (a)](images/FP1.jpg)
+![Landing Page (b)](images/FP2.jpg)
+![Landing Page (c)](images/FP3.jpg)
 
 *Clean and modern design with responsive layout*
 
